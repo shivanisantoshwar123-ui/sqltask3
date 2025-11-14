@@ -1,0 +1,501 @@
+"course_id","course_code","course_name","credits","dept_id"
+1001,"CS101","Programming Fundamentals","4",1
+1002,"MA201","Calculus I","4",2
+1003,"PH105","Classical Mechanics","3",3
+1004,"CS205","Data Structures","4",1
+1005,"EC310","Microeconomics","3",4
+1006,"CH101","General Chemistry","4",5
+1007,"HS101","World History","3",6
+1008,"CS315","Operating Systems","4",1
+1009,"MA202","Calculus II","4",2
+1010,"PH210","Quantum Physics","4",3
+1011,"EC311","Macroeconomics","3",4
+1012,"CH205","Organic Chemistry","4",5
+1013,"HS203","Political Science","3",6
+1014,"CS401","Algorithm Design","4",1
+1015,"MA305","Linear Algebra","3",2
+1016,"PH301","Thermodynamics","3",3
+1017,"EC420","Econometrics","4",4
+1018,"CH312","Physical Chemistry","4",5
+1019,"HS309","Sociology","3",6
+1020,"CS450","Artificial Intelligence","4",1
+1021,"MA410","Differential Equations","3",2
+1022,"PH405","Relativity","3",3
+1023,"EC499","Economics Thesis","3",4
+1024,"CH401","Inorganic Chemistry","4",5
+1025,"HS402","Anthropology","3",6
+1026,"CS102","Introduction to Web Dev","3",1
+1027,"MA101","Pre-Calculus","4",2
+1028,"PH101","Introductory Physics","4",3
+1029,"EC201","Intermediate Micro","4",4
+1030,"CH102","Inorganic Chemistry I","3",5
+1031,"HS105","Philosophy","4",6
+1032,"CS201","Object-Oriented Prog","4",1
+1033,"MA315","Abstract Algebra","3",2
+1034,"PH315","Electromagnetism","4",3
+1035,"EC350","Public Finance","3",4
+1036,"CH210","Analytical Chemistry","4",5
+1037,"HS210","Art History","3",6
+1038,"CS305","Database Systems","3",1
+1039,"MA420","Topology","4",2
+1040,"PH410","Nuclear Physics","3",3
+1041,"EC415","International Trade","4",4
+1042,"CH301","Biochemistry","3",5
+1043,"HS301","Creative Writing","4",6
+1044,"CS410","Computer Networks","4",1
+1045,"MA205","Discrete Math","3",2
+1046,"PH201","Astrophysics","3",3
+1047,"EC205","Statistics for Econ","4",4
+1048,"CH410","Advanced Synthesis","4",5
+1049,"HS405","Linguistics","3",6
+1050,"CS499","Computer Science Project","3",1
+1051,"MA499","Math Research Seminar","3",2
+1052,"PH499","Physics Lab Project","4",3
+1053,"EC101","Introduction to Economics","4",4
+1054,"CH499","Chemistry Capstone","3",5
+1055,"HS499","Humanities Seminar","3",6
+1056,"CS301","Theory of Computation","4",1
+1057,"MA450","Mathematical Modeling","3",2
+1058,"PH320","Optics","3",3
+1059,"EC330","Development Economics","4",4
+1060,"CH220","Polymer Chemistry","3",5
+1061,"HS250","Ethics and Society","4",6
+1062,"CS415","Cloud Computing","3",1
+1063,"MA105","Statistics I","4",2
+1064,"PH215","Fluid Dynamics","4",3
+1065,"EC410","Financial Markets","3",4
+1066,"CH305","Spectroscopy","4",5
+1067,"HS320","World Literature","3",6
+1068,"CS330","Software Engineering","4",1
+1069,"MA320","Complex Analysis","4",2
+1070,"PH450","Solid State Physics","3",3
+1071,"EC210","Game Theory","4",4
+1072,"CH420","Environmental Chemistry","3",5
+1073,"HS410","Psychology","4",6
+1074,"CS110","Digital Logic Design","4",1
+1075,"MA210","Vector Calculus","4",2
+1076,"PH110","Wave Phenomena","3",3
+1077,"EC340","Labor Economics","3",4
+1078,"CH110","Materials Science","4",5
+1079,"HS110","Classical Civilizations","3",6
+1080,"CS220","Discrete Mathematics for CS","4",1
+1081,"MA330","Numerical Methods","4",2
+1082,"PH330","Nuclear Energy","3",3
+1083,"EC430","International Finance","4",4
+1084,"CH330","Forensic Chemistry","3",5
+1085,"HS220","Media Studies","4",6
+1086,"CS420","Mobile Application Dev","3",1
+1087,"MA460","Probability Theory","4",2
+1088,"PH460","Quantum Field Theory","4",3
+1089,"EC220","Applied Statistics","3",4
+1090,"CH430","Medicinal Chemistry","4",5
+1091,"HS420","Criminology","3",6
+1092,"CS150","Web Technologies","3",1
+1093,"MA120","Applied Calculus","4",2
+1094,"PH120","Modern Physics","4",3
+1095,"EC360","Monetary Policy","3",4
+1096,"CH120","Analytical Lab","3",5
+1097,"HS130","Comparative Religion","4",6
+1098,"CS230","Algorithms and Complexity","4",1
+1099,"MA340","Optimization","3",2
+1100,"PH340","Electronics","4",3
+1101,"EC440","Environmental Economics","3",4
+1102,"CH230","Organic Lab","4",5
+1103,"HS230","Film Studies","3",6
+1104,"CS340","Compiler Design","4",1
+1105,"MA470","Functional Analysis","4",2
+1106,"PH470","Particle Physics","3",3
+1107,"EC230","Industrial Organization","4",4
+1108,"CH440","Inorganic Synthesis","3",5
+1109,"HS430","Urban Studies","4",6
+1110,"CS430","Machine Learning","4",1
+1111,"MA130","Foundations of Math","3",2
+1112,"PH130","Computational Physics","3",3
+1113,"EC370","Health Economics","4",4
+1114,"CH130","Physical Lab","3",5
+1115,"HS140","Public Speaking","4",6
+1116,"CS240","Computer Architecture","4",1
+1117,"MA350","Stochastic Processes","4",2
+1118,"PH350","Acoustics","3",3
+1119,"EC450","Behavioral Economics","3",4
+1120,"CH240","Biochemical Analysis","4",5
+1121,"HS240","Gender Studies","3",6
+1122,"CS350","Artificial Neural Networks","4",1
+1123,"MA480","Mathematical Logic","3",2
+1124,"PH480","Plasma Physics","4",3
+1125,"EC240","Introduction to Finance","4",4
+1126,"CH450","Advanced Spectroscopy","3",5
+1127,"HS440","Peace Studies","4",6
+1128,"CS440","Big Data Analytics","3",1
+1129,"MA140","Basic Algebra","4",2
+1130,"PH140","Biophysics","4",3
+1131,"EC380","Resource Economics","3",4
+1132,"CH140","Chemistry for Engineers","4",5
+1133,"HS150","East Asian History","3",6
+1134,"CS250","Network Security","4",1
+1135,"MA360","Cryptography","4",2
+1136,"PH360","Chaos Theory","3",3
+1137,"EC460","Econometrics II","4",4
+1138,"CH250","Analytical Instrumentation","3",5
+1139,"HS260","European History","4",6
+1140,"CS360","Graphics and Visualization","4",1
+1141,"MA490","Numerical PDE","3",2
+1142,"PH490","Geophysics","4",3
+1143,"EC250","Money and Banking","3",4
+1144,"CH460","Computational Chemistry","4",5
+1145,"HS450","Digital Humanities","3",6
+1146,"CS460","Information Retrieval","3",1
+1147,"MA150","Linear Programming","4",2
+1148,"PH150","Space Science","4",3
+1149,"EC390","Applied Econometrics","3",4
+1150,"CH150","Advanced General Chemistry","3",5
+1151,"HS160","Latin American Studies","4",6
+1152,"CS260","Operating System Lab","4",1
+1153,"MA370","Real Analysis II","3",2
+1154,"PH370","Condensed Matter","4",3
+1155,"EC470","Advanced Macroeconomics","3",4
+1156,"CH380","Separation Techniques","4",5
+1157,"HS380","African Studies","3",6
+1158,"CS100","Introduction to Programming","4",7
+1159,"EE101","Circuit Analysis","4",8
+1160,"ME101","Engineering Drawing","3",9
+1161,"CE101","Statics","4",10
+1162,"BT101","Cell Biology","3",11
+1163,"EN101","English Literature","4",12
+1164,"MA380","Measure Theory","3",2
+1165,"PH380","Astroparticle Physics","4",3
+1166,"EC480","Macroeconometrics","4",4
+1167,"CH400","Chemical Kinetics","3",5
+1168,"HS480","Middle Eastern Studies","4",6
+1169,"CS115","System Administration","3",7
+1170,"EE201","Digital Logic","4",8
+1171,"ME201","Thermodynamics I","4",9
+1172,"CE201","Mechanics of Materials","3",10
+1173,"BT201","Genetics","4",11
+1174,"EN201","Poetry and Drama","3",12
+1175,"MA160","Applied Statistics II","4",13
+1176,"PH160","Physics Lab I","3",14
+1177,"EC300","Economics of Innovation","4",15
+1178,"CH290","Environmental Analysis","3",16
+1179,"HS290","History of Science","4",17
+1180,"CS290","Human-Computer Interaction","4",18
+1181,"EE301","Electromagnetic Theory","3",19
+1182,"ME301","Fluid Mechanics","4",20
+1183,"CE301","Structural Analysis","4",21
+1184,"BT301","Microbiology","3",22
+1185,"EN301","Victorian Literature","4",23
+1186,"MA260","Intro to Proofs","3",24
+1187,"PH260","Quantum Mechanics I","4",25
+1188,"EC400","Behavioral Finance","4",26
+1189,"CH390","Computational Chem Lab","3",27
+1190,"HS390","Philosophy of Mind","4",28
+1191,"CS390","Data Mining","3",29
+1192,"EE401","VLSI Design","4",30
+1193,"ME401","Heat Transfer","4",31
+1194,"CE401","Transportation Engineering","3",32
+1195,"BT401","Immunology","4",33
+1196,"EN401","Modernist Literature","3",34
+1197,"MA390","Group Theory","4",35
+1198,"PH390","Statistical Mechanics","3",36
+1199,"CS490","Advanced Database Systems","4",1
+1200,"EE102","Electronic Devices","4",8
+1201,"ME102","Materials Science","3",9
+1202,"CE102","Dynamics","4",10
+1203,"BT102","Plant Biology","3",11
+1204,"EN102","Rhetoric and Composition","4",12
+1205,"CS103","Introduction to Web Design","3",7
+1206,"EE202","Microprocessors","4",13
+1207,"ME202","Machine Design","4",14
+1208,"CE202","Fluid Mechanics","3",15
+1209,"BT202","Molecular Biology","4",16
+1210,"EN202","American Literature","3",17
+1211,"CS203","Advanced Data Structures","4",18
+1212,"EE302","Power Systems","3",19
+1213,"ME302","Control Systems","4",20
+1214,"CE302","Environmental Engineering","4",21
+1215,"BT302","Bioinformatics","3",22
+1216,"EN302","Shakespeare","4",23
+1217,"CS303","Operating System Design","3",24
+1218,"EE402","Communication Systems","4",25
+1219,"ME402","CAD/CAM","4",26
+1220,"CE402","Geotechnical Engineering","3",27
+1221,"BT402","Tissue Engineering","4",28
+1222,"EN402","Contemporary Fiction","3",29
+1223,"CS403","Advanced Algorithms","4",30
+1224,"EE103","Signals and Systems","3",31
+1225,"ME103","Manufacturing Processes","4",32
+1226,"CE103","Surveying","4",33
+1227,"BT103","Animal Physiology","3",34
+1228,"EN103","Introduction to Film","4",35
+1229,"CS104","Database Management","3",36
+1230,"EE203","Instrumentation","4",1
+1231,"ME203","Kinematics of Machines","4",8
+1232,"CE203","Hydrology","3",9
+1233,"BT203","Ecology","4",10
+1234,"EN203","Non-Fiction Writing","3",11
+1235,"CS204","Computer Organization","4",12
+1236,"EE303","Control Theory","3",7
+1237,"ME303","Heat and Mass Transfer","4",13
+1238,"CE303","Water Resource Engineering","4",14
+1239,"BT303","Genetic Engineering","3",15
+1240,"EN303","Restoration Literature","4",16
+1241,"CS304","Network Architecture","3",17
+1242,"EE403","Digital Signal Proc.","4",18
+1243,"ME403","Automobile Engineering","4",19
+1244,"CE403","Bridge Engineering","3",20
+1245,"BT403","Cancer Biology","4",21
+1246,"EN403","Post-Colonial Literature","3",22
+1247,"CS404","Machine Learning II","4",23
+1248,"EE104","Digital Electronics Lab","3",24
+1249,"ME104","Workshop Practice","4",25
+1250,"CE104","Building Materials","4",26
+1251,"BT104","Virology","3",27
+1252,"EN104","Technical Writing","4",28
+1253,"CS105","Cyber Security","3",29
+1254,"EE204","Analog Communications","4",30
+1255,"ME204","Applied Thermodynamics","4",31
+1256,"CE204","Traffic Engineering","3",32
+1257,"BT204","Metabolism","4",33
+1258,"EN204","World Mythology","3",34
+1259,"CS215","Algorithm Analysis","4",35
+1260,"EE304","Antenna Theory","3",36
+1261,"ME304","Renewable Energy","4",1
+1262,"CE304","Pavement Design","4",8
+1263,"BT304","Nanobiotechnology","3",9
+1264,"EN304","Romantic Literature","4",10
+1265,"CS311","Web Security","3",11
+1266,"EE404","Optical Fiber Comm.","4",12
+1267,"ME404","Robotics","4",7
+1268,"CE404","Airport Planning","3",13
+1269,"BT404","Stem Cell Biology","4",14
+1270,"EN404","Gender and Literature","3",15
+1271,"CS405","Cloud Security","4",16
+1272,"EE105","Basic Electrical Eng","3",17
+1273,"ME105","Engineering Mechanics","4",18
+1274,"CE105","Disaster Management","4",19
+1275,"BT105","Histology","3",20
+1276,"EN105","Digital Storytelling","4",21
+1277,"CS106","Data Visualization","3",22
+1278,"EE205","Digital Communications","4",23
+1279,"ME205","Manufacturing Automation","4",24
+1280,"CE205","Air Pollution Control","3",25
+1281,"BT205","Neurobiology","4",26
+1282,"EN205","Ecocriticism","3",27
+1283,"CS206","Advanced Computer Arch","4",28
+1284,"EE305","Microwave Engineering","3",29
+1285,"ME305","Finite Element Analysis","4",30
+1286,"CE305","Coastal Engineering","4",31
+1287,"BT305","Vaccine Technology","3",32
+1288,"EN305","Post-Structuralism","4",33
+1289,"CS306","IoT Programming","3",34
+1290,"EE405","Embedded Systems","4",35
+1291,"ME405","Computational Fluid Dyn.","4",36
+1292,"CE405","Solid Waste Management","3",1
+1293,"BT405","Medical Imaging","4",8
+1294,"EN405","Critical Theory","3",9
+1295,"CS406","Deep Learning","4",10
+1296,"EE106","Network Theory","3",11
+1297,"ME106","Engineering Graphics","4",12
+1298,"CE106","Project Management","4",7
+1299,"BT106","Biophysics","3",13
+1300,"EN106","Journalism Basics","4",14
+1301,"CS107","Ethical Hacking","3",15
+1302,"EE206","Power Electronics","4",37
+1303,"ME206","Mechanical Vibrations","4",38
+1304,"CE206","Structural Design","3",39
+1305,"BT206","Immunology Lab","4",40
+1306,"EN206","Modern Poetry","3",41
+1307,"CS208","Advanced Networking","4",42
+1308,"EE306","Digital System Design","3",43
+1309,"ME306","Turbo Machinery","4",44
+1310,"CE306","Advanced Construction","4",45
+1311,"BT306","Bioinstrumentation","3",46
+1312,"EN306","Critical Reading","4",47
+1313,"CS308","Operating System Security","3",48
+1314,"EE406","Computer Networks","4",49
+1315,"ME406","Advanced Thermodynamics","4",50
+1316,"CE406","Advanced Geotech","3",51
+1317,"BT406","Drug Delivery Systems","4",52
+1318,"EN406","Gothic Literature","3",53
+1319,"CS408","Advanced Data Mining","4",54
+1320,"EE107","Control Systems Intro","3",55
+1321,"ME107","Basic Electronics","4",56
+1322,"CE107","Engineering Geology","4",57
+1323,"BT107","Applied Microbiology","3",58
+1324,"EN107","Creative Non-Fiction","4",59
+1325,"CS108","Data Structures Lab","3",60
+1326,"EE207","Embedded Systems Lab","4",61
+1327,"ME207","Machine Learning for Mech","4",62
+1328,"CE207","Sustainable Engineering","3",63
+1329,"BT207","Biostatistics","4",64
+1330,"EN207","Postmodern Literature","3",65
+1331,"CS209","Algorithms for Big Data","4",66
+1332,"EE307","Digital VLSI Design","3",67
+1333,"ME307","Computational Heat Trans","4",68
+1334,"CE307","Prestressed Concrete","4",69
+1335,"BT307","Bioprocess Engineering","3",70
+1336,"EN307","Restoration and 18th Century","4",71
+1337,"CS309","Cloud Computing Security","3",72
+1338,"EE407","Wireless Communications","4",73
+1339,"ME407","Aero Space Engineering","4",74
+1340,"CE407","Construction Management","3",75
+1341,"BT407","Regenerative Medicine","4",76
+1342,"EN407","Classical Greek Literature","3",77
+1343,"CS409","Advanced ML Algorithms","4",78
+1344,"EE108","Computer Organization","3",79
+1345,"ME108","Solid Mechanics","4",80
+1346,"CE108","Transportation Systems","4",81
+1347,"BT108","Medical Genetics","3",82
+1348,"EN108","Introduction to Linguistics","4",83
+1349,"CS109","Software Development Practicum","3",84
+1350,"EE208","Signal Processing Lab","4",85
+1351,"ME208","Instrumentation and Control","4",86
+1352,"CE208","Environmental Impact Assess","3",87
+1353,"BT208","Tissue Culture","4",88
+1354,"EN208","Modern Drama","3",89
+1355,"CS210","Advanced Software Eng","4",90
+1356,"EE308","Communication Lab","3",91
+1357,"ME308","Automated Manufacturing","4",92
+1358,"CE308","Bridge Design","4",93
+1359,"BT308","Pharmacology","3",94
+1360,"EN308","Creative Writing Workshop","4",95
+1361,"CS310","Cybersecurity Fundamentals","3",96
+1362,"EE408","Digital Communication Lab","4",97
+1363,"ME408","Combustion Engineering","4",98
+1364,"CE408","Earthquake Engineering","3",99
+1365,"BT408","Bionanotechnology","4",100
+1366,"EN408","Satire and Irony","3",101
+1367,"CS411","IoT System Design","4",102
+1368,"EE109","Electrical Measurements","3",103
+1369,"ME109","Thermodynamics Lab","4",104
+1370,"CE109","Construction Materials Lab","4",105
+1371,"BT109","Immunology and Serology","3",106
+1372,"EN109","Introduction to Journalism","4",107
+1373,"CS111","Operating System Concepts","3",108
+1374,"EE209","Analog Electronics Lab","4",109
+1375,"ME209","Mechanisms and Robotics","4",110
+1376,"CE209","Advanced Fluid Mechanics","3",111
+1377,"BT209","Genomics and Proteomics","4",112
+1378,"EN209","Science Fiction","3",113
+1379,"CS211","Parallel Computing","4",114
+1380,"EE309","Digital Communication Theory","3",115
+1381,"ME309","Refrigeration and AC","4",116
+1382,"CE309","Finite Element Methods in CE","4",117
+1383,"BT309","Food Biotechnology","3",118
+1384,"EN309","Post-War American Lit","4",119
+1385,"CS312","Advanced Cryptography","3",120
+1386,"EE409","Antenna and Wave Prop","4",121
+1387,"ME409","Acoustics and Noise Control","4",122
+1388,"CE409","Advanced Traffic Engineering","3",123
+1389,"BT409","Biomedical Engineering","4",124
+1390,"EN409","Literary Theory","3",125
+1391,"CS412","Quantum Computing","4",126
+1392,"EE110","Linear Integrated Circuits","3",127
+1393,"ME110","System Dynamics","4",128
+1394,"CE110","Pavement Analysis","4",129
+1395,"BT110","Bioethics","3",130
+1396,"EN110","Mythology and Folklore","4",131
+1397,"CS112","Introduction to AI","3",132
+1398,"EE210","Microcontroller Systems","4",133
+1399,"ME210","Aerodynamics","4",134
+1400,"CE210","Solid Mechanics Lab","3",135
+1401,"BT210","Applied Immunology","4",136
+1402,"EN210","Fantasy Literature","3",137
+1403,"CS212","Advanced Algorithms II","4",138
+1404,"EE310","Control Systems Design","3",139
+1405,"ME310","Vibration Analysis","4",140
+1406,"CE310","Structural Dynamics","4",141
+1407,"BT310","Cell and Tissue Engineering","3",142
+1408,"EN310","Early American Literature","4",143
+1409,"CS316","Blockchain Technology","3",144
+1410,"EE410","Microwave Theory and Tech","4",145
+1411,"ME410","Computational Heat Trans II","4",146
+1412,"CE410","Water Quality Management","3",147
+1413,"BT410","Biomedical Signal Proc.","4",148
+1414,"EN410","The Novel","3",149
+1415,"CS422","Ethical Hacking and Security","4",150
+1416,"EE111","Digital Communications Intro","3",151
+1417,"ME111","Manufacturing Processes Lab","4",152
+1418,"CE111","Advanced Surveying","4",153
+1419,"BT111","Enzyme Technology","3",154
+1420,"EN111","Asian Literature","4",155
+1421,"CS122","Introduction to Databases","3",156
+1422,"EE211","VLSI Circuits","4",157
+1423,"ME211","Automotive Systems","4",158
+1424,"CE211","Hydraulics and Pipelines","3",159
+1425,"BT211","Biochemistry Lab","4",160
+1426,"EN211","European Novel","3",161
+1427,"CS213","Advanced OS","4",162
+1428,"EE311","Digital Image Processing","3",163
+1429,"ME311","Advanced Robotics","4",164
+1430,"CE311","Foundation Engineering","4",165
+1431,"BT311","Environmental Biotechnology","3",166
+1432,"EN311","African American Literature","4",167
+1433,"CS313","Distributed Systems","3",168
+1434,"EE411","Digital Design with FPGAs","4",169
+1435,"ME411","Advanced CFD","4",170
+1436,"CE411","Coastal Zone Management","3",171
+1437,"BT411","Biomaterials","4",172
+1438,"EN411","Children's Literature","3",173
+1439,"CS413","Natural Language Processing","4",174
+1440,"EE112","Data Structures for ECE","3",175
+1441,"ME112","Basic Electrical Machines","4",176
+1442,"CE112","GIS and Remote Sensing","4",177
+1443,"BT112","Fermentation Technology","3",178
+1444,"EN112","Memoir and Autobiography","4",179
+1445,"CS113","Introduction to Web Security","3",180
+1446,"EE212","Computer Networks Lab","4",181
+1447,"ME212","I.C. Engines","4",182
+1448,"CE212","Structural Analysis II","3",183
+1449,"BT212","Molecular Biology Lab","4",184
+1450,"EN212","Transnational Literature","3",185
+1451,"CS214","Network Programming","4",186
+1452,"EE312","VLSI Lab","3",187
+1453,"ME312","Thermal Engineering","4",188
+1454,"CE312","Advanced Water Resources","4",189
+1455,"BT312","Genetic Engineering Lab","3",190
+1456,"EN312","Contemporary British Lit","4",191
+1457,"CS314","Wireless Networks","3",192
+1458,"EE412","Biomedical Instrumentation","4",193
+1459,"ME412","Micro-Electro-Mech Systems","4",194
+1460,"CE412","Hydropower Engineering","3",195
+1461,"BT412","Biosensors","4",196
+1462,"EN412","Writing for Games","3",197
+1463,"CS414","High-Performance Computing","4",198
+1464,"EE113","Probability and Random Vars","3",199
+1465,"ME113","Engineering Drawing II","4",200
+1466,"CE113","Advanced Statics","4",1
+1467,"BT113","Marine Biotechnology","3",2
+1468,"EN113","Introduction to Media","4",3
+1469,"CS114","Introduction to Operating Sys","3",4
+1470,"EE213","Microcontroller Lab","4",5
+1471,"ME213","Fluid Machinery","4",6
+1472,"CE213","Advanced Dynamics","3",7
+1473,"BT213","Plant Biotechnology","4",8
+1474,"EN213","Classical Mythology","3",9
+1475,"CS225","Compiler Theory","4",10
+1476,"EE313","Optical Communications","3",11
+1477,"ME313","Advanced Manufacturing","4",12
+1478,"CE313","Transportation Modeling","4",13
+1479,"BT313","Cell Signaling","3",14
+1480,"EN313","Chaucer","4",15
+1481,"CS325","Distributed Database Systems","3",16
+1482,"EE413","Advanced Digital Comm","4",17
+1483,"ME413","Advanced Robotics II","4",18
+1484,"CE413","Sustainable Water Systems","3",19
+1485,"BT413","Advanced Virology","4",20
+1486,"EN413","Narrative Theory","3",21
+1487,"CS425","Reinforcement Learning","4",22
+1488,"EE114","Digital Signal Processing Intro","3",23
+1489,"ME114","Thermodynamics II","4",24
+1490,"CE114","Advanced Dynamics Lab","4",25
+1491,"BT114","Protein Engineering","3",26
+1492,"EN114","Screenwriting","4",27
+1493,"CS125","Introduction to AI II","3",28
+1494,"EE214","Control Systems Lab","4",29
+1495,"ME214","Finite Element Methods Intro","4",30
+1496,"CE214","Highway Engineering","3",31
+1497,"BT214","Immunopathology","4",32
+1498,"EN214","Travel Literature","3",33
+1499,"CS216","Advanced Network Security","4",34
+1500,"EE314","VLSI Design Principles","3",35
